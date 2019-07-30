@@ -1,2 +1,3 @@
 # blog
-Simple blog written in GO for blog.bigdogbig.com
+Blog posts for blog.bigdogbig.com written in markdown.
+
